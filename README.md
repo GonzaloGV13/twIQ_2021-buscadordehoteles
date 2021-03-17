@@ -6,9 +6,9 @@ El proyecto consiste en crear un programa que permita al usuario encontrar un ho
 
 Ana Boston Berned. Usuario: anaboston
 
-Gonzalo Gil Vallejo. Usuario:
+Gonzalo Gil Vallejo. Usuario:GonzaloGV13
 
-Silvia Hernández Cuerdas. Usuario:
+Silvia Hernández Cuerdas. Usuario: 
 
 ## Objetivos del trabajo
 
