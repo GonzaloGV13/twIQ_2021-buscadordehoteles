@@ -8,7 +8,7 @@ Ana Boston Berned. Usuario: anaboston
 
 Gonzalo Gil Vallejo. Usuario:
 
-Silvia Hernández Cuerdas. Usuario:
+Silvia Hernández Cuerdas. Usuario: GonzaloGV13
 
 ## Objetivos del trabajo
 
